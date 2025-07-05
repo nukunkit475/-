@@ -2,8 +2,6 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Birthday 🎂</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sriracha&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
