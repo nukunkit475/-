@@ -12,12 +12,12 @@
       min-height: 100vh;
     }
     h1 {
-      font-size: 3em;
-      margin-top: 30px;
+      font-size: 2em;
+      margin-top: 100px;
       color: #d63384;
     }
     p {
-      font-size: 1.5em;
+      font-size: 1em;
       padding: 0 20px;
       line-height: 1.8;
     }
@@ -30,7 +30,7 @@
     button {
       margin-top: 30px;
       padding: 10px 25px;
-      font-size: 1.2em;
+      font-size: 1em;
       background: #ffa6c9;
       border: none;
       border-radius: 15px;
