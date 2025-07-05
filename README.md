@@ -101,7 +101,7 @@
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
   <p>และสดใสทุกๆวัน</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
-  <p>อยากยิ้มเยอะๆด้วย</p>
+  <p>อยากให้ยิ้มเยอะๆด้วย</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
   <p>และสุดท้ายครับ</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
