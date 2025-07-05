@@ -12,8 +12,8 @@
       min-height: 100vh;
     }
     h1 {
-      font-size: 2em;
-      margin-top: 100px;
+      font-size: 1.5em;
+      margin-top: 250px;
       color: #d63384;
     }
     p {
