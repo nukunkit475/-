@@ -1,4 +1,3 @@
-
 <head>
   <style>
     body {
@@ -83,11 +82,11 @@
 </head>
 <body>
 
-  <h1>สุขสันต์วันเกิดนะครับคนเก่ง 🎉</h1>
-  
+  <h1>BDนะครับคนเก่ง</h1>
+  <p>🎂🎉</p>
 
   <button onclick="document.getElementById('secret').style.display='block'">
-    กดได้นะครับ🤓
+   กดได้นะครับ👆
   </button>
   <div id="secret">
   <p>
