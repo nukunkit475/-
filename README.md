@@ -9,6 +9,7 @@
       text-align: center;
       color: #b03e65;
       overflow-x: hidden;
+      min-height: 100vh;
     }
     h1 {
       font-size: 3em;
