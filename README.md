@@ -11,12 +11,12 @@
       min-height: 100vh;
     }
     h1 {
-      font-size: 1em;
+      font-size: 3em;
       margin-top: 250px;
       color: #d63384;
     }
     p {
-      font-size: 0.8em;
+      font-size: 1em;
       padding: 0 20px;
       line-height: 1.8;
     }
@@ -82,8 +82,8 @@
 </head>
 <body>
 
-  <h1>BDนะครับคนเก่ง</h1>
-  <p>🎂🎉</p>
+  <h1>🎂🎉</h1>
+
 
   <button onclick="document.getElementById('secret').style.display='block'">
    กดได้นะครับ👆
@@ -91,7 +91,8 @@
   <div id="secret">
   <p>วันเกิดปีนี้ผมอยากจะบอกว่า</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น">
-  <p>ผมอยากให้พี่สมหวังกับทุกสิ่งที่พี่ปรารถนา</p>
+  <p>ผมอยากให้พี่สมหวัง<br>
+     กับทุกสิ่งที่พี่ปรารถนา</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น">
   <p>ไม่อยากให้มีเรื่องทุกข์ใจ</p>
   <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
