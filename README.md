@@ -90,24 +90,24 @@
   </button>
   <div id="secret">
   <p>BDนะครับคนเก่ง</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น">
+  <img class="sticker" src="1.0.png" alt="หารูปก่อนใจเย็น">
   <p>วันเกิดปีนี้ผมอยากจะบอกว่า</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น">
+  <img class="sticker" src="1.1.png" alt="หารูปก่อนใจเย็น">
   <p>ผมอยากให้พี่สมหวัง<br>
      กับทุกสิ่งที่พี่ปรารถนา</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น">
+  <img class="sticker" src="1.2.png" alt="หารูปก่อนใจเย็น">
   <p>ไม่อยากให้มีเรื่องทุกข์ใจ</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.3.png" alt="หารูปก่อนใจเย็น"> 
   <p>อยากให้มีแต่ความสุข</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.4.png" alt="หารูปก่อนใจเย็น"> 
   <p>และสดใสทุกๆวัน</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.5.png" alt="หารูปก่อนใจเย็น"> 
   <p>อยากให้ยิ้มเยอะๆด้วย</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.6.png" alt="หารูปก่อนใจเย็น"> 
   <p>และสุดท้ายครับ</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.7.png" alt="หารูปก่อนใจเย็น"> 
   <p>ขอบคุณที่ยังอยู่ด้วยกันครับ</p>
-  <img class="sticker" src="put-your-image-link-here.png" alt="หารูปก่อนใจเย็น"> 
+  <img class="sticker" src="1.8.png" alt="หารูปก่อนใจเย็น"> 
   </div>
 
  <script>
